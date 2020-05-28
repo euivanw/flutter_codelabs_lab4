@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'exemplo_row_e_column.dart';
+import 'exemplo_main_axis_size.dart';
 
 void main() => runApp(MeuApp());
 
@@ -13,7 +13,7 @@ class MeuApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: RowAndColumnWidget(),
+      home: MainAxisSizeExemplo(),
     );
   }
 }
