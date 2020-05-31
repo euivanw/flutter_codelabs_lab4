@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'exemplo_criando_um_icone.dart';
+import 'exemplo_exibindo_uma_imagem.dart';
 
 void main() => runApp(MeuApp());
 
@@ -13,7 +13,7 @@ class MeuApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: CriandoUmIconeExemplo(),
+      home: ExibindoUmaImagemExemplo(),
     );
   }
 }
