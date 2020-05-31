@@ -1,16 +1,11 @@
-# flutter_codelabs_lab4
+# Conceitos básicos de leiaute no Flutter
 
-A new Flutter project.
+Este projeto contém o código fonte codelab [Basic Flutter layout concepts](https://flutter.dev/docs/codelabs/layout-basics#flexible-widget) que foi traduzido por mim e disponibilizado em [Conceitos básicos de leiaute no Flutter](https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/conceitos-basicos-de-leiaute-no-flutter/introducao).
 
-## Getting Started
+Todo o código foi adaptado para que você possa ter a melhor experiência em aprender Flutter sem a barreira do idioma Inglês.
 
-This project is a starting point for a Flutter application.
+Acompanhe todos os laboratórios de código Flutter traduzidos no endereço [https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/](https://ivanwhm.gitbook.io/laboratorios-de-codigo-do-flutter/)
 
-A few resources to get you started if this is your first Flutter project:
+Feito com &hearts; por Ivan Wilhelm.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Codificado no [Visual Studio Code](https://code.visualstudio.com) da [Microsoft](https://www.microsoft.com.br)
