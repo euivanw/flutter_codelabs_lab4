@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'exemplo_redimensionando_um_widget.dart';
+import 'exemplo_criando_um_espaco.dart';
 
 void main() => runApp(MeuApp());
 
@@ -13,7 +13,7 @@ class MeuApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: RedimensionandoWidgetExemplo(),
+      home: CriandoEspacoExemplo(),
     );
   }
 }
