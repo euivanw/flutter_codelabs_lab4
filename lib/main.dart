@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'exemplo_cross_axis_alignment.dart';
+import 'exemplo_mude_a_propriedade_fit.dart';
 
 void main() => runApp(MeuApp());
 
@@ -13,7 +13,7 @@ class MeuApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: CrossAxisAlignmentExemplo(),
+      home: PropriedadeFitExemplo(),
     );
   }
 }
