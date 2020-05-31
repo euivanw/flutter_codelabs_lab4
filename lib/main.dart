@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'exemplo_criando_mais_espaco.dart';
+import 'exemplo_alinhando_texto.dart';
 
 void main() => runApp(MeuApp());
 
@@ -13,7 +13,7 @@ class MeuApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: CriandoMaisEspacoExemplo(),
+      home: AlinhandoTextoExemplo(),
     );
   }
 }
